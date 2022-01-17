@@ -1,0 +1,6 @@
+body {
+	font-size: 9pt;
+}
+a:visited    { color: #0000FF; text-decoration: none }
+a:link       { color: #0000FF; text-decoration: none }
+a:active     { text-decoration: none; color: #0000FF }
